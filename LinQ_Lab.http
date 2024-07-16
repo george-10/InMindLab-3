@@ -1,0 +1,6 @@
+@LinQ_Lab_HostAddress = http://localhost:5039
+
+GET {{LinQ_Lab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
